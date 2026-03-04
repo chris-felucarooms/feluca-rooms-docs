@@ -1,0 +1,163 @@
+SOP – Gestione Emergenze Feluca Rooms (IT)
+1. Obiettivo
+Garantire una gestione rapida, sicura e standardizzata di tutte le emergenze che possono verificarsi negli appartamenti Feluca Rooms, riducendo rischi per persone e proprietà e assicurando comunicazioni chiare e tempestive.
+
+2. Responsabili
+Inquilino: segnala immediatamente l’emergenza nel gruppo WhatsApp e, se necessario, contatta i servizi di emergenza.
+
+Feluca Rooms (Chris o staff): valuta la gravità, coordina gli interventi, attiva manutentori o servizi esterni, documenta l’evento.
+
+Manutentori esterni: intervengono per guasti tecnici urgenti.
+
+Forze dell’ordine / Vigili del fuoco / Pronto intervento: coinvolti solo nei casi previsti dalla legge.
+
+3. Tipologie di emergenza
+Idrauliche: allagamenti, perdite importanti, rottura tubi.
+
+Elettriche: blackout localizzati, prese che fumano, odore di bruciato.
+
+Gas: odore di gas, sospetta perdita.
+
+Sicurezza: porta bloccata, serratura rotta, tentativi di intrusione.
+
+Sanitarie: malori, incidenti.
+
+Strutturali: crolli, crepe importanti, infiltrazioni gravi.
+
+Comportamentali: rumori eccessivi, comportamenti pericolosi, violazioni gravi del regolamento.
+
+4. Strumenti utilizzati
+WhatsApp (gruppo ufficiale)
+
+Sistema di accesso smart (per apertura da remoto, se possibile)
+
+Contatti manutentori
+
+Archivio foto/video
+
+Documentazione interna (GitHub)
+
+5. Processo operativo
+5.1. Segnalazione dell’emergenza
+L’inquilino deve inviare nel gruppo WhatsApp:
+
+descrizione del problema
+
+foto/video
+
+orario in cui è stato notato
+
+Messaggio standard da richiedere:
+
+“Per favore inviami subito una foto o un video così valuto la gravità.”
+
+5.2. Valutazione immediata
+Feluca Rooms valuta entro 10 minuti:
+
+rischio per persone
+
+rischio per proprietà
+
+necessità di intervento urgente
+
+necessità di chiamare servizi esterni
+
+Classificazione:
+
+Critica → rischio immediato (gas, incendio, allagamento grave)
+
+Alta → danno importante ma non pericoloso per persone
+
+Media → guasto che crea disagio
+
+Bassa → problema non urgente
+
+5.3. Azioni immediate per emergenze critiche
+Gas
+chiedere all’inquilino di uscire subito dall’appartamento
+
+vietare uso di luci o dispositivi
+
+chiamare immediatamente il pronto intervento gas
+
+recarsi sul posto se possibile
+
+Incendio / odore di bruciato
+chiedere all’inquilino di allontanarsi
+
+chiamare i vigili del fuoco
+
+disattivare corrente (se possibile da remoto)
+
+Allagamento grave
+chiedere all’inquilino di chiudere il rubinetto generale (se accessibile)
+
+inviare idraulico urgente
+
+documentare tutto
+
+Serratura bloccata / impossibilità di entrare
+verificare accesso smart
+
+generare nuovo codice
+
+aprire da remoto (se possibile)
+
+inviare manutentore
+
+5.4. Azioni per emergenze non critiche
+Per problemi non pericolosi:
+
+inviare messaggio di presa in carico
+
+programmare intervento manutentore
+
+aggiornare inquilino con orario previsto
+
+Messaggio standard:
+
+“Ho preso in carico il problema. Sto organizzando l’intervento e ti aggiorno a breve.”
+
+5.5. Documentazione
+Feluca Rooms deve:
+
+salvare foto/video
+
+registrare data e ora
+
+descrivere l’intervento effettuato
+
+archiviare tutto nella cartella dedicata
+
+5.6. Chiusura emergenza
+Dopo l’intervento:
+
+verificare che il problema sia risolto
+
+inviare messaggio di conferma all’inquilino
+
+aggiornare stato → “Emergenza chiusa”
+
+Messaggio standard:
+
+“L’intervento è stato completato. Fammi sapere se tutto funziona correttamente.”
+
+6. Standard operativi
+Risposta entro 10 minuti per emergenze critiche
+
+Comunicazioni solo nel gruppo WhatsApp
+
+Documentazione obbligatoria
+
+Nessun intervento fai‑da‑te da parte degli inquilini
+
+Accesso smart usato solo se sicuro
+
+Coinvolgimento forze dell’ordine solo quando necessario
+
+7. Versionamento
+Versione: 1.0
+
+Ultimo aggiornamento: [inserire data]
+
+Responsabile: Chris – Feluca Rooms
