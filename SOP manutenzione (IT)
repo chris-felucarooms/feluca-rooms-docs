@@ -1,0 +1,153 @@
+SOP – Gestione Manutenzione Feluca Rooms
+1. Obiettivo
+Garantire una gestione efficiente, tempestiva e documentata delle richieste di manutenzione, riducendo i tempi di intervento, prevenendo danni maggiori e mantenendo un elevato standard qualitativo nelle stanze e negli spazi comuni.
+
+2. Responsabili
+Inquilino: segnala problemi tramite WhatsApp nel gruppo ufficiale.
+
+Feluca Rooms (Chris o staff): valuta la richiesta, classifica la priorità, assegna il manutentore, aggiorna lo stato.
+
+Manutentore esterno: esegue l’intervento e fornisce feedback.
+
+Team pulizie: segnala eventuali problemi rilevati durante le pulizie.
+
+3. Strumenti utilizzati
+WhatsApp (gruppo inquilino + Feluca Rooms)
+
+App Feluca Rooms (quando attiva)
+
+HousingAnywhere (se rilevante)
+
+Cartella GitHub “feluca-rooms-automations”
+
+Check‑list manutenzione
+
+Archivio foto e video degli interventi
+
+4. Tipologie di manutenzione
+Ordinaria: lampadine, serrature, rubinetti che gocciolano, piccoli guasti.
+
+Straordinaria: rotture importanti, infiltrazioni, guasti elettrici, elettrodomestici non funzionanti.
+
+Emergenze: allagamenti, blackout, perdite di gas, porte bloccate.
+
+5. Processo operativo
+5.1. Segnalazione del problema
+L’inquilino invia un messaggio nel gruppo WhatsApp con:
+
+descrizione del problema
+
+foto/video
+
+orario in cui è stato notato
+
+Messaggio standard da richiedere:
+
+“Per favore inviami una foto o un video del problema così posso valutare la priorità.”
+
+5.2. Valutazione e classificazione
+Entro 2 ore dalla segnalazione:
+
+analizza il problema
+
+classifica la priorità:
+
+Alta: emergenze, guasti che impediscono l’uso della stanza
+
+Media: problemi che creano disagio ma non bloccano l’uso
+
+Bassa: piccoli difetti estetici o non urgenti
+
+Registra la richiesta nel sistema interno (o app).
+
+5.3. Comunicazione all’inquilino
+Messaggio standard:
+
+“Grazie per la segnalazione. Ho preso in carico il problema e ti aggiorno appena ho programmato l’intervento.”
+
+5.4. Assegnazione al manutentore
+In base alla tipologia:
+
+idraulico
+
+elettricista
+
+tecnico elettrodomestici
+
+manutentore generico
+
+Invia al manutentore:
+
+foto/video
+
+descrizione
+
+indirizzo
+
+disponibilità dell’inquilino
+
+5.5. Programmazione dell’intervento
+Concorda:
+
+giorno
+
+fascia oraria
+
+accesso (con inquilino presente o tramite chiavi)
+
+Messaggio standard all’inquilino:
+
+“Il manutentore verrà il giorno [data] tra [orario]. Fammi sapere se sei disponibile.”
+
+5.6. Esecuzione dell’intervento
+Il manutentore:
+
+esegue il lavoro
+
+invia foto/video del risultato
+
+comunica eventuali costi extra o problemi aggiuntivi
+
+5.7. Verifica e chiusura
+Feluca Rooms:
+
+verifica che il problema sia risolto
+
+aggiorna lo stato → “Completato”
+
+archivia foto/video nel repository o nella cartella dedicata
+
+invia messaggio finale all’inquilino:
+
+“Intervento completato. Fammi sapere se tutto funziona correttamente.”
+
+6. Gestione emergenze
+Per problemi critici:
+
+rispondere entro 10 minuti
+
+contattare immediatamente il manutentore di riferimento
+
+se necessario, recarsi sul posto
+
+documentare tutto con foto/video
+
+aggiornare l’inquilino in tempo reale
+
+7. Standard operativi
+Risposta alle segnalazioni entro 2 ore
+
+Documentazione obbligatoria con foto/video
+
+Nessun intervento senza conferma dell’inquilino (tranne emergenze)
+
+Aggiornamento stato intervento sempre registrato
+
+Comunicazioni solo nel gruppo WhatsApp ufficiale
+
+8. Versionamento
+Versione: 1.0
+
+Ultimo aggiornamento: [inserire data]
+
+Responsabile: Chris – Feluca Rooms
