@@ -1,0 +1,192 @@
+SOP – Check‑in Feluca Rooms (IT)
+(versione aggiornata con check‑in automatizzato)
+
+1. Obiettivo
+Garantire un processo di check‑in chiaro, standardizzato e affidabile, riducendo interventi manuali e assicurando un’esperienza fluida sia in modalità tradizionale sia tramite accesso automatizzato con centralina smart.
+
+2. Responsabili
+Feluca Rooms (Chris o staff): gestione comunicazioni, attivazione accesso smart, verifica documenti, controllo qualità stanza.
+
+Inquilino: rispetto delle istruzioni, conferma informazioni, utilizzo corretto della centralina.
+
+Team pulizie/manutenzione: preparazione stanza prima del check‑in.
+
+3. Strumenti utilizzati
+WhatsApp (gruppo ufficiale)
+
+HousingAnywhere (se applicabile)
+
+Yousign (contratto)
+
+Sistema di accesso smart / centralina
+
+App Feluca Rooms (quando attiva)
+
+Template messaggi (repository feluca-rooms-templates)
+
+Documentazione interna (repository feluca-rooms-docs)
+
+4. Processo operativo
+4.1. Conferma prenotazione
+Dopo la prenotazione:
+
+inviare messaggio di benvenuto
+
+richiedere documento d’identità
+
+inviare contratto Yousign
+
+confermare modalità di check‑in (tradizionale o automatizzato)
+
+Messaggio standard:
+
+“Ciao! Benvenuto/a in Feluca Rooms. Ti confermo la prenotazione. Ti chiedo un documento d’identità e ti invio il contratto da firmare.”
+
+4.2. Firma del contratto
+inviare contratto tramite Yousign
+
+verificare firme
+
+archiviare copia
+
+aggiornare stato stanza → “Assegnata”
+
+4.3. Creazione gruppo WhatsApp
+Creare gruppo con:
+
+inquilino
+
+Feluca Rooms
+
+Nome gruppo:
+“Feluca Rooms – [Indirizzo] – Stanza [Numero]”
+
+Messaggio iniziale:
+
+“Questo è il gruppo ufficiale per comunicazioni durante il tuo soggiorno.”
+
+4.4. Invio informazioni pre‑arrivo
+Inviare:
+
+indirizzo completo
+
+regole della casa (EN)
+
+istruzioni check‑in (EN)
+
+informazioni Wi‑Fi
+
+raccolta rifiuti
+
+eventuali note specifiche
+
+5. Modalità di Check‑in
+5.1. Check‑in automatizzato tramite centralina smart
+(nuova sezione integrata)
+
+5.1.1. Attivazione accesso
+Feluca Rooms:
+
+registra l’inquilino nel sistema smart
+
+genera codice personale temporaneo
+
+imposta validità da [data check‑in] ore [ora]
+
+invia codice nel gruppo WhatsApp
+
+Messaggio standard:
+
+“Il tuo check‑in avverrà tramite accesso smart. Questo è il tuo codice personale: [codice]. Sarà attivo dalle [ora] del [giorno].”
+
+5.1.2. Istruzioni operative
+Inviare istruzioni in inglese (template):
+
+dove si trova la centralina
+
+come inserire il codice
+
+come aprire porta principale
+
+come aprire porta stanza (se smart)
+
+cosa fare in caso di errore
+
+5.1.3. Conferma accesso
+L’inquilino deve inviare:
+
+conferma di ingresso
+
+foto della stanza all’arrivo
+
+Feluca Rooms registra il check‑in come completato.
+
+5.1.4. Supporto remoto
+In caso di problemi:
+
+verificare log accessi
+
+generare nuovo codice
+
+aprire da remoto (se previsto)
+
+inviare manutentore solo se necessario
+
+5.2. Check‑in tradizionale in presenza
+Durante l’incontro:
+
+consegna chiavi
+
+mostra stanza e spazi comuni
+
+verifica funzionamento stanza
+
+briefing iniziale
+
+Checklist:
+
+Wi‑Fi
+
+luci
+
+finestre
+
+pulizia
+
+prese
+
+6. Briefing iniziale (per entrambe le modalità)
+Spiegare:
+
+come segnalare problemi (foto/video nel gruppo)
+
+responsabilità pulizie durante il semestre
+
+regole su ospiti, rumori, rifiuti
+
+procedure emergenze
+
+orari check‑out
+
+7. Messaggio di chiusura check‑in
+“Benvenuto/a ufficialmente in Feluca Rooms! Per qualsiasi necessità scrivi pure qui nel gruppo.”
+
+8. Standard operativi
+Nessun check‑in senza contratto firmato
+
+Accesso smart attivato solo dopo verifica documenti
+
+Stanza sempre pulita e controllata prima dell’arrivo
+
+Comunicazioni solo nel gruppo WhatsApp
+
+Foto di conferma obbligatorie per check‑in automatizzato
+
+Codici smart validi solo per la durata del soggiorno
+
+9. Versionamento
+Versione: 1.2
+
+Ultimo aggiornamento: [inserire data]
+
+Responsabile: Chris – Feluca Rooms
